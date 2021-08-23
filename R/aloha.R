@@ -1,5 +1,5 @@
 
-#' Says Aloah to a friend
+#' Says Aloha to a friend
 #'
 #' @param name a character
 #' @param print a logical
